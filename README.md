@@ -11,7 +11,6 @@ La cifratura/decifratura utilizza i seguenti dati:
 
 ## To Do
 - Creazione interfaccia grafica desktop
-- Porting su Android
 - Implementazione 2FA
 
 ## File dati
