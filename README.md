@@ -25,5 +25,5 @@ I dati vengono salvati su file nominato come l'username e con estensione .dat
 Il file di configurazione configuration.conf è in formato csv, qui vi si trovano i dati per la configurazione del software
 ### Struttura:
 - UI => Tipo di interfaccia, 0 per la CLI, 1 quando sarà disponibile la GUI
-- URI => Path dove loggere e scrivere i file utente
+- URI => Path dove leggere e scrivere i file utente
 
